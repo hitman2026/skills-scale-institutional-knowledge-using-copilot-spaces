@@ -38,5 +38,9 @@ Incident Communication
 - Post-incident blameless retrospective scheduled
 
 ## Escalation Paths
-- Team-level -> PM -> Product Lead -> Sponsor
+- **Team-level** → Project Manager → Product Owner/Lead → Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+- For production issues, engage Release Manager and Change Control Coordinator
+- For requirements clarification, Business Analyst coordinates with Product Owner and stakeholders
+
+For detailed escalation scenarios and role-specific responsibilities, see [Responsibility Matrix](octoacme-responsibility-matrix.md) and [Stakeholder Communication Checklist](octoacme-stakeholder-communication-checklist.md).

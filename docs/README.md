@@ -10,7 +10,7 @@ Stakeholder engagement and team communication are tightly integrated into every 
 
 ### Roles and Accountability
 
-Defined personas and roles form the foundation of project success at OctoAcme. Every project is assigned a **Project Manager (PM)**, **Product Manager (PdM)**, dedicated **development leads**, and **QA analysts**, ensuring clear accountability and ownership at each step. These roles collaborate using documented responsibilities and handoff points, reducing ambiguity and enabling smooth transitions between project phases.
+Defined personas and roles form the foundation of project success at OctoAcme. Every project is assigned key roles including **Project Manager (PM)**, **Product Owner**, **Product Manager (PdM)**, **Business Analyst**, dedicated **development leads**, **QA analysts**, **UX/UI Designer**, **Release Manager**, and **Change Control Coordinator** as needed, ensuring clear accountability and ownership at each step. These roles collaborate using documented responsibilities and handoff points, reducing ambiguity and enabling smooth transitions between project phases. See the [Roles and Personas](octoacme-roles-and-personas.md) document for detailed role descriptions.
 
 ### Communication and Risk Management
 
@@ -35,11 +35,17 @@ This directory contains detailed process documents that guide project teams thro
 - [OctoAcme Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) - Post-release retrospectives and continuous improvement practices
 - [OctoAcme Roles and Personas](octoacme-roles-and-personas.md) - Detailed role definitions, responsibilities, and collaboration models
 
+### Templates and Checklists
+
+- [OctoAcme Role Onboarding Checklist](octoacme-role-onboarding-checklist.md) - Standardized onboarding for all project roles
+- [OctoAcme Responsibility Matrix (RACI)](octoacme-responsibility-matrix.md) - Clear accountability matrix with handoff points and escalation procedures
+- [OctoAcme Stakeholder Communication Checklist](octoacme-stakeholder-communication-checklist.md) - Comprehensive communication planning and execution guide
+
 ## Getting Started
 
-New team members should start by reviewing the [Project Management Overview](octoacme-project-management-overview.md) to understand OctoAcme's foundational principles and approach. Then, explore the [Roles and Personas](octoacme-roles-and-personas.md) document to understand your role and how you fit into the larger team structure.
+New team members should start by reviewing the [Project Management Overview](octoacme-project-management-overview.md) to understand OctoAcme's foundational principles and approach. Then, explore the [Roles and Personas](octoacme-roles-and-personas.md) document to understand your role and how you fit into the larger team structure. Use the [Role Onboarding Checklist](octoacme-role-onboarding-checklist.md) to ensure a smooth onboarding experience.
 
-Project managers and product managers should familiarize themselves with all process documents, as each phase builds upon the previous one and requires understanding of the complete project lifecycle.
+Project managers and product managers should familiarize themselves with all process documents, as each phase builds upon the previous one and requires understanding of the complete project lifecycle. The [Responsibility Matrix](octoacme-responsibility-matrix.md) provides clear accountability for all activities and helps clarify handoff points between roles.
 
 ## Questions or Feedback?
 
