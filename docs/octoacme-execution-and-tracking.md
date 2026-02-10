@@ -29,9 +29,12 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Use dashboards for key signals (errors, latency, usage)
 
 ## Blocker Escalation
-- Level 1: Team-level triage in daily standup
-- Level 2: PM escalates to Product Lead and dependent teams
-- Level 3: Sponsor-level escalation for business-impacting issues
+- **Level 1**: Team-level triage in daily standup (Developer, Business Analyst, or UX/UI Designer)
+- **Level 2**: PM escalates to Product Owner/Lead and dependent teams
+- **Level 3**: Sponsor-level escalation for business-impacting issues
+- **Emergency**: Production incidents follow incident response with Release Manager and Change Control Coordinator
+
+For detailed escalation procedures and role responsibilities, see [Responsibility Matrix](octoacme-responsibility-matrix.md).
 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
